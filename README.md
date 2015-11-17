@@ -7,6 +7,8 @@ Data scraped from http://www.goodrx.com/classes
 
 Web scraper https://import.io/
 
-FDA data http://www.fda.gov/Drugs/InformationOnDrugs/ucm079750.htm;
+FDA data http://www.fda.gov/Drugs/InformationOnDrugs/ucm079750.htm  (go here to download .zip files directly);
+
+
 
 
